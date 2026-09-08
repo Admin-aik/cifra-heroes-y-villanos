@@ -1,0 +1,6 @@
+{
+  "name": "CifraFlow: Héroes & Villanos de la Economía",
+  "description": "Plataforma interactiva de educación y simulación financiera con batallas 3D de héroes contra villanos económicos, gestión contable en tiempo real, balance general y narración por voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
